@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.db
+*.log
+.env
+.env.*
+.idea/
+venv/
+.poetry/
+logs/
+.DS_Store
